@@ -1,3 +1,4 @@
 # Exercice1_SA_cdeancos
 
-THIS IS THE README OF EXERCICE 1 OF STATISTICAL ANALYSIS OF HIGH-THROUGHPUT GENOMICS AND TRANSCRIPTOMICS DATA.
+This is the **README** of Exercie1 of _Statistical Analysis of High-throughput Genomics and Transcriptomics Data_.
+
